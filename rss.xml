@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	
+	<channel>
+		<title>Productividad Renovada - Microsoft México</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/rss.xml</link>
+		<atom:link href="http://www.tesseractspace.com/prototipos/productividadrenovada/rss.xml" rel="self" type="application/rss+xml" />
+		<description>Productividad Renovada es una publicación digital que de forma ágil presenta los productos y servicios que Microsoft pone a disposición de cualquier empresa que desea alcanzar su potencial a través de las nuevas tecnologías.</description>
+		<language>es-mx</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright>Copyright 2012, &#169; Microsoft</copyright>
+		<managingEditor>i-afaguiz@microsoft.com (Fabrizio Guiza)</managingEditor>
+		<image>
+			<title>Productividad Renovada - Microsoft México</title>
+			<url>http://www.tesseractspace.com/prototipos/productividadrenovada/images/icons/icon_PR_114px.png</url>
+			<link>http://www.tesseractspace.com/prototipos/productividadrenovada/rss.xml</link>
+			<width>114</width>
+			<height>114</height>
+		</image>
+
+	<item>
+		<title>Evolución, una forma de vivir</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#presentacion</link>
+		<description><![CDATA[
+			<p>Este es el primer ejemplar de <i>Productividad renovada</i>, una publicación que presentará información útil y siempre actualizada sobre las diversas soluciones que Microsoft ofrece al segmento empresarial. Nuestra intención es <b>acercar a los usuarios hacia recursos tecnológicos que quizá no conocen y podrían hacer una diferencia positiva en su entorno</b>. Esta información está distribuida de acuerdo con los valores preponderantes de los productos, así podrá identificar el tipo de necesidad que esta tecnología resuelve, de esta forma hablaremos de <b>accesibilidad</b>, <b>seguridad</b>, <b>flexibilidad</b>, <b>colaboración</b>, <b>interoperabilidad</b> y <b>familiaridad</b>.</p>
+			<p>El debut de un nuevo sistema operativo es excusa suficiente como para destinarle amplio espacio en <i>Productividad renovada</i>. Windows 8 no solo representa una innovadora forma de interactuar con una computadora (sin importar la forma que esta tenga) ya que el sistema operativo simplifica las labores tanto con dispositivos que utilizan interfaces tipo touch como tradicionales. Windows 8 trae consigo nuevas formas de colaboración, que facilitan el trabajo a distancia o en movimiento y consideran el uso de dispositivos más portátiles, que además tiene a la seguridad de su información como característica más importante.</p>
+			<p>Finalmente, alrededor de todos estos temas se encuentra un actor que lentamente está cobrando más importancia en el mundo empresarial: la Nube. Gracias a las posibilidades que esta herramienta nos ofrece, los costos de algunos procesos e infraestructura que considerábamos fijos, se han vuelto más flexibles. Con el paso del tiempo la Nube se convertirá en una necesidad más que una novedad.</p>
+			<p>Le invitamos a que descubra algunas de las formas en las cuales Windows 8 y toda la gama de productos Microsoft pueden ayudarle a alcanzar todo el potencial de su fuerza de trabajo para cumplir los objetivos de su empresa. Bienvenido a <i>Productividad renovada</i>.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#presentacion</guid>
+	</item>
+
+	<item>
+		<title>Windows 8 Enterprise</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#Windows8Enterprise</link>
+		<description><![CDATA[
+			<h2>Más y mejores soluciones para las empresas</h2>
+			<p>Con la aparición de un nuevo sistema operativo siempre surgen dudas sobre su adopción dentro de las empresas. Una inversión de esta naturaleza siempre debe analizarse no sólo en términos de dinero sino de cómo impacta una migración de este tipo en la productividad. <b>Dado el entorno cada vez más móvil en el cual se desempeñan las empresas, es indispensable garantizar tanto acceso a la información almacenada como su seguridad</b>, Windows 8 Enterprise facilita las instancias móviles de trabajo al mismo tiempo que las dota de seguridad.</p>
+			<p>Con una unidad USB de arranque administrada por la empresa y habilitada con Windows To Go, es posible trabajar a distancia con solo insertar la unidad en cualquier PC que pueda ejecutar Windows 8, sus controles de autenticación de usuario garantizan el acceso seguro a la información y la red de la empresa. <b>Windows 8 Enterprise protege a sus equipos y tabletas ante las infecciones de virus, ya que se puede restringir el uso de archivos y aplicaciones que ciertas personas o grupos pueden ejecutar</b>, gracias a AppLocker.</p>
+			Si sus usuarios tienen dificultad para acceder a datos y aplicaciones corporativos mientras viajan, se quejan de que descargar archivos grandes toma demasiado tiempo o han traído sus dispositivos personales para conectarlos a la red corporativa, pero resulta demasiado caro administrarlos y protegerlos, es buen momento para evaluar una migración hacia Windows 8 Enterprise.</p>
+			<p><b>Windows 8 Enterprise está listo para acompañar a todas las organizaciones que entienden al cambio como una parte integral de sus actividades.</b></p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#Windows8Enterprise</guid>
+	</item>
+	
+	<item>
+		<title>Oficina móvil o fija, seguridad en todo lugar</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#OficinaMovil</link>
+		<description><![CDATA[
+		<h2>Protección en todos niveles</h2>
+			<p>A estas alturas no debería sorprendernos que cada avance que la tecnología nos ofrece en cuestiones de movilidad presente nuevos problemas y retos asociados. En un escenario de frecuente movilidad, el peligro de comprometer nuestra información es constante. No se trata de disuadir a ninguna persona de realizar sus tareas fuera de los espacios de oficina —<b>la flexibilidad que permite una oficina móvil o el trabajo en casa puede repercutir de forma positiva en la productividad de un elemento</b>—, sino de brindar toda la protección al entorno de trabajo para facilitar el desempeño de la fuerza laboral a distancia.</p>
+			<p>Sin embargo, esta revolución en la manera de trabajar no significaría nada sin los protocolos que garanticen la seguridad de nuestra información y dispositivos. <b>Windows 8 incluye Arranque Seguro y Windows Defender, que ayudan a evitar que el <i>malware</i> pueda comprometer la seguridad y ocultarse tras compartir información en internet</b> o acceder a sitios web peligrosos de forma inadvertida. Esto no es todo, la resistencia contra el <i>malware</i> se ha reforzado con SmartScreen de Internet Explorer 10 y los servicios web de Reputación de la Aplicación. <b>Siempre será mucho mejor evitar que se descargue el un archivo potencialmente dañino en lugar de que su software anti<i>malware</i> detecte una infección y tenga que limpiar el sistema.</b></p>
+			<p>Pero en el caso de una computadora portátil, ¿qué sucede si el dispositivo se pierde o es robado? Windows 8 incluye tecnología de cifrado como BitLocker y BitLocker To Go. Así, mediante códigos de autenticación y unidades externas USB podemos proteger cualquier dispositivo, sea este fijo o remoto.</p>
+			<p>Obtenga respuestas integrales a partir de un sistema operativo que le permita desarrollar el potencial de su organización, piense en Windows 8.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#OficinaMovil</guid>
+	</item>
+	
+	<item>
+		<title>Windows System Center</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#WindowsSystemCenter</link>
+		<description><![CDATA[
+			<h2>Seguridad en <i>data centers</i> y servidores</h2>
+			<p>Con la proliferación del uso de las tecnologías de la información y la comunicación, <b>las amenazas de seguridad electrónica, el robo de identidad, la piratería</b>, entre otras muchas situaciones negativas, <b>representan un desafío importante y una prioridad para las organizaciones y los usuarios</b> que desean un entorno protegido para trabajar. Microsoft invierte de manera constante su tiempo y recursos en mejorar la seguridad como una de sus prioridades.</p>
+			<p><b>Microsoft System Center 2012 es una plataforma de gestión integral que le permitirá administrar sus entornos de TI de manera eficaz y sencilla</b>, tanto la infraestructura de sus servidores, como los dispositivos y equipos que sus clientes utilicen para acceder a estos; le proporciona un conjunto de herramientas para gestionar las aplicaciones de nube privada, pública y sus varios servicios, lo cual unifica al mismo tiempo que simplifica sus procesos empresariales.</p>
+			<p>Cuenta con Configuration Manager 2012, que le ayudará a capacitar a todos los usuarios para que utilicen los dispositivos y aplicaciones que necesitan, al mismo tiempo que cumplen los estándares de seguridad corporativa y de control sobre la privacidad y los privilegios cedidos para acceder a esta información.</p>
+			<p><b>Con estos avances de seguridad para sus servidores, puede tener la confianza de que solo las personas que necesitan acceso a su información puedan tenerlo, sean socios, clientes o empleados.</b> No solo eso, también puede tener estos accesos en la palma de su mano a través de equipos personales y móviles con la confianza de que sus datos y los servidores donde se encuentran cuentan con una infraestructura de primer nivel y lo más avanzado en tecnología, Microsoft System Center 2012 entrega una experiencia segura a través de diversos equipos.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#WindowsSystemCenter</guid>
+	</item>
+	
+	<item>
+		<title>¿Qué es Office 365?</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#QueEsOffice365</link>
+		<description><![CDATA[
+			<h2>Servicios en la Nube que potencian su productividad</h2>
+			<p>En mayor o menor medida, las empresas —sin importar su tamaño— ya hacen uso de recursos de productividad móviles; incluso micro empresas y personas que trabajan por su cuenta lo hacen de acuerdo a sus posibilidades. <b>Los servicios basados en la Nube se han establecido como soluciones que pueden tanto reducir costos como facilitar la interacción de equipos de trabajo.</b></p>
+			<p>Hoy <b>Office también existe como un servicio en línea: Office 365. De la misma forma en la cual una persona accede a servicios de streaming de películas o música</b> desde cualquier dispositivo que se conecte a internet, es posible crear, modificar y actualizar documentos de texto, presentaciones y hojas de cálculo en dispositivos móviles así como en estaciones de trabajo dentro de la oficina y compartir todo esto sin riesgos de pérdida de información o problemas de compatibilidad. Cualquier usuario registrado puede acceder a través de su navegador web a las aplicaciones Office que ya conoce y disfrutar del entorno colaborativo que un servicio en la Nube permite. <b>Toda la información permanece actualizada y siempre disponible</b> sin importar ubicación o dispositivo de uso, los 365 días del año.</p>
+			<p><b>Con Office 365 su empresa se encuentra respaldada por un contrato de nivel de servicio del 99.9% de tiempo de actividad</b> y su información se replica en centros de datos con redundancia geográfica para protegerla ante averías que afecten al centro de datos, de esta forma su información permanece segura y disponible todo el año.</p>
+			<p><b>Los servicios en Nube le permiten a cualquier entidad reducir sus costos gracias a ofertas que se adaptan a las necesidades puntuales de cada empresa.</b> El éxito de una compañía dependerá de cuán fácilmente permita a sus trabajadores interactuar y colaborar sin importar el día, la hora ni el lugar.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#QueEsOffice365</guid>
+	</item>
+	
+	<item>
+		<title>Yammer</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#Yammer</link>
+		<description><![CDATA[
+			<h2>Una herramienta empresarial con interfaz de red social</h2>
+			<p>No podemos discutir que un gran porcentaje de la población que usa internet, ya sea por trabajo o diversión, es miembro de al menos una red social. Este medio generalmente se usa para situaciones más bien triviales, entre amigos, familiares y conocidos que buscan distraerse, divertirse y compartir lo que hay en su mente en ese preciso momento. <b>Estas mismas características que usamos en la red social de nuestra preferencia pueden agilizar y optimizar la comunicación, organización y compartición de datos entre colaboradores.</b></p>
+			<p>Para poder disfrutar la experiencia participativa de una red social en su entorno de trabajo, existe <b>Yammer: una red social para entornos de trabajo a la cual únicamente tienen acceso miembros de su empresa.</b></p>
+			<p>Una vez que son parte de esta red social-empresarial, los usuarios pueden acceder a chat en línea, compartir e intercambiar archivos, usar aplicaciones, subir imágenes o enlaces dentro de los temas que son relevantes para su organización o crear notas relacionadas con eventos y proyectos de su entorno laboral. Además, Yammer se integra a SharePoint 2013, lo que permite extender las capacidades de ambas herramientas. Se pueden crear eventos dentro de un calendario que todos los miembros del grupo pueden ver y comentar; es posible crear encuestas, publicar enlaces con videos, enviar mensajes privados, crear redes de contactos o grupos con propósitos específicos. Si usted sabe usar una red social, no tendrá problema al utilizar Yammer.</p>
+			<p>Es posible adaptar aquellas prácticas que pudieran causar problemas a nuestras organizaciones y usarlas en nuestro beneficio, <b>Yammer y SharePoint nos muestran cómo una red social puede apoyar a nuestra empresa de maneras insospechadas.</b></p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#Yammer</guid>
+	</item>
+	
+	<item>
+		<title>Eficiencia al cuadrado</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#Eficiencia</link>
+		<description><![CDATA[
+			<h2>Tabletas Windows 8 como herramienta empresarial</h2>
+			<p>Uno de los dispositivos portátiles más populares y novedosos son las terminales portátiles tipo tableta o como son mejor conocidas: tablets; son <b>dispositivos ligeros, elegantes, sencillos de usar gracias a una interfaz intuitiva, predecible y confiable. Cada vez más personas están usando estos versátiles equipos para trabajar.</b> Dado el crecimiento de usuarios de estos dispositivos (en 2012, se vendieron 119 millones de tabletas alrededor del mundo), <b>Microsoft ofrece soluciones y equipos que pueden hacer de la experiencia laboral al usarlos algo extraordinario al utilizar Windows 8, que ha sido diseñado para sacar el mayor provecho de equipos con interfaz táctil.</b></p>
+			<p><b>El sistema operativo Windows 8 está especialmente pensado para el uso empresarial de tabletas</b>, permite un uso más eficiente de la batería, un arranque sencillo y confiable, el uso de características únicas de seguridad como el cifrado en el dispositivo a través de Bit Locker, así como Windows Firewall y Windows Defender. <b>Las tabletas se pueden convertir en una solución para negocios que cuentan con personal en constante desplazamiento.</b></p>
+			<p>Esa presencia constante de los dispositivos computacionales en nuestra vida podría resultar contraproducente, sin embargo, <b>el ecosistema que Windows 8 puede proporcionarle lo acompañará sin importar dónde se encuentre o qué dispositivo utilice</b>, con la misma solidez en cada una de sus versiones. Con Windows 8, productividad y libertad son sinónimos.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#Eficiencia</guid>
+	</item>
+	
+	<item>
+		<title>Windows 8 en movimiento</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#Window8EnMovimiento</link>
+		<description><![CDATA[
+			<h2>El mejor desempeño profesional móvil</h2>
+			<p><b>El flujo de información y la renovada interfaz que ofrece el nuevo Windows 8 no solo están pensados para usarse en equipos fijos o portátiles con grandes pantallas</b> (como laptops y ‘ultrabooks,’) también se pueden disfrutar en tabletas o teléfonos inteligentes. Este tipo de migración que los usuarios realizan entre dispositivos podría representar un problema, sin embargo con Windows 8 y MDOP (Microsoft Desktop Optimization Package) el usuario ya no tiene que preocuparse por sincronizar los datos o las configuraciones cuando cambia de PC o utiliza su equipo móvil, así sus aplicaciones, datos y configuraciones pueden estar disponibles en cualquier dispositivo.</p>
+			<p>El departamento de TI puede mantener todas las configuraciones y datos del usuario almacenados de forma automática en un servidor de la compañía y a total disposición en la caché local de sus dispositivos, para que se puedan usar incluso cuando no está conectado en línea. <b>Con Microsoft User Experience Virtualization en MDOP un usuario puede cambiar entre diferentes sistemas operativos sin problemas</b> (por ejemplo, entre Windows 7 y Windows 8), ya que Microsoft User Experience Virtualization detecta de manera inteligente la versión del sistema y coloca la configuración en las ubicaciones apropiadas para cada uno.</p>
+			<p>Estas tecnologías mantienen las aplicaciones, los datos y las configuraciones conectadas a las personas y no sólo a los dispositivos, que pueden perderse o sustituirse por otros. <b>Gracias a la plataforma unificada de estos productos y servicios las personas pueden disfrutar experiencias consistentes en su uso ya sea en línea o desconectadas.</b> Al mismo tiempo, <b>estas tecnologías le permiten a su departamento de TI administrar el acceso a las aplicaciones y bases de datos de forma centralizada.</b> En cuanto a opciones de movilidad, trabajo a distancia y seguridad, Microsoft Windows 8 está de su lado.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#Window8EnMovimiento</guid>
+	</item>
+	
+	<item>
+		<title>Aplicaciones en la Nube</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#AplicacionesEnNube</link>
+		<description><![CDATA[
+			<h2>Pasos firmes hacia la Nube</h2>
+			<p>Conforme pasa el tiempo más y más personas hablan de <b>la Nube, un espacio virtual al cual se puede acceder a través de internet, está formada por servidores de gran capacidad y cualquier computadora o dispositivo móvil que se pueda conectar a internet</b> que pueda usarse como una terminal.</p>
+			<p>Podemos usar la Nube para almacenar y consumir información sin importar nuestra ubicación ni nuestro dispositivo, o para “construir” computadoras virtuales creadas específicamente para realizar tareas que no podríamos hacer con el equipo que contamos; así como se pueden adaptar los servicios hospedados en Nube hasta cumplir nuestras necesidades precisas, <b>el software también puede ser consumido desde la Nube como un servicio a la medida, sin tener que comprar licencias de uso para cada usuario ni instalar el software en cada dispositivo.</b></p>
+			<p>App-V es la solución para virtualización de aplicaciones líder en la industria y que ayuda a reducir el costo de administrar sus PCs. <b>Las aplicaciones virtuales se “sienten” y “comportan” como las aplicaciones Windows instaladas de manera tradicional.</b> Con App-V es posible controlar el uso y acceso a las aplicaciones a través de los departamentos de TI y siempre se puede contar con accesos seguros, filtros de protección y respaldo de la información, así como administrar cómo trabajan las aplicaciones desde la consola de administración del servidor. También <b>es posible escanear las aplicaciones virtualizadas en busca de virus.</b> Con todo esto los datos y aplicaciones de su organización siguen a los usuarios sin importar el dispositivo, mientras se mantiene la eficiencia gracias a interfaces consistentes a través de diferentes pantallas.</p>
+			<p><b>La Nube no solo presenta riesgos, también ofrece nuevas posibilidades para el crecimiento y desarrollo de cualquier empresa</b> que sepa aprovechar el momento presente.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#AplicacionesEnNube</guid>
+	</item>
+	
+	<item>
+		<title>La evolución de Office</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#evolucionDeOffice</link>
+		<description><![CDATA[
+			<h2>Listo para las nuevas formas de trabajar</h2>
+			<p>El mundo de los negocios se mueve gracias a Office. <b>Su calidad demostrada a lo largo de los años la ha ubicado como la mejor opción de software para el trabajo</b>, su versatilidad está más allá de toda prueba; esta gama de soluciones es la herramienta más confiable y poderosa de un negocio.</p>
+			<p>Dada la variedad de usuarios y sus necesidades, <b>ahora es posible escoger entre dos modelos de uso de Office para obtener el mayor provecho de nuestra inversión.</b> Office 2013 es la nueva familia de productos que se instala en nuestra PC de forma tradicional; además de que ya incluye Word, Excel y PowerPoint listos para su uso, permite utilizar una cuenta de SkyDrive para almacenar archivos en la Nube.</p>
+			<p>Para entornos de trabajo más móviles y colaborativos existe Office 365, el servicio en la Nube con todas las soluciones que usted ya conoce en su computadora y que <b>aprovecha las posibilidades de colaboración que la Nube nos brinda.</b> No solo eso, Office 365 le ofrece servicios como videoconferencia en HD, mensajería instantánea y soluciones para diseñar y hospedar su sitio web. Todo esto en planes y paquetes que usted ajusta de acuerdo a sus necesidades presentes y que puede modificar en caso de imprevistos.</p>
+			<p>Finalmente, es posible contar con ambos modelos de Office ya que trabajan perfectamente coordinados, tanto en la creación de archivos como en su modificación y compartición; siempre tiene control de las versiones de sus documentos en formatos absolutamente compatibles.</p>
+			<p>Se terminaron los tiempos en los cuales un usuario se adaptaba al software que usaba. <b>Hoy podemos obtener las mejores herramientas de acuerdo a nuestras exigencias puntuales</b>, invertir en exactamente aquello que nos hace falta. Una vez más, <b>Office marca el camino a seguir en soluciones para empresas.</b></p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#evolucionDeOffice</guid>
+	</item>
+	
+	<item>
+		<title>Descubra la web con Internet Explorer</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#DescubraLaWeb</link>
+		<description><![CDATA[
+			<h2>Lo nuevo dentro de Internet Explorer 10</h2>
+			<p>A lo largo de los años, Internet Explorer se ha convertido en el navegador preferido de todo tipo de personas; <b>en algún momento de su vida casi todos los usuarios de internet se han apoyado en alguna versión de Internet Explorer para acceder a la red.</b></p>
+			<p>Junto a Windows 8 aparece <b>Internet Explorer 10</b> que <b>vuelve a la navegación rápida y fácil gracias a su interfaz táctil</b>, sin embargo, su desempeño es igualmente sorprendente si se utiliza un teclado o ratón. Es un navegador que explota todo el poder de los dispositivos al utilizar al hardware para mejorar su desempeño y permite anclar sitios web a la barra de tareas o pantalla de inicio para que se sientan como aplicaciones: cualquier usuario podrá acceder a estos con solo un clic o un toque de dedo; además, está libre de plugins, lo cual minimiza el riesgo de utilizar software potencialmente riesgoso a través de una extensión.</p>
+			<p>Internet Explorer 10 mejora su seguridad <b>al usar el filtro líder en la industria: SmartScreen, que ayuda a proteger a los usuarios contra malware socialmente diseñado</b> que se aprovecha de nuestros hábitos de navegación para causar problemas. En tiempos recientes se ha visto un aumento en el monitoreo de usuarios a través del navegador de internet, estas prácticas benefician a los desarrolladores del navegador a través de la ordeña información de nuestros hábitos de uso para venderla a terceros o ubicar publicidad. Por esto <b>Internet Explorer 10 integra la herramienta Do Not Track (Deshabilitar el Rastreo) para garantizar su privacidad y seguridad en la red.</b></p>
+			<p>Si internet está cambiando para mejorar en favor de los usuarios, es necesario que los usuarios cambien para mejorar su experiencia en internet. <b>De un paso adelante y disfrute de la red como nunca antes lo había hecho.</b></p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#DescubraLaWeb</guid>
+	</item>
+	
+	<item>
+		<title>SharePoint, donde converge una empresa</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#Sharepoint</link>
+		<description><![CDATA[
+			<h2>La comunicación como eje de la productividad</h2>
+			<p>El éxito de una organización depende en gran medida de un equipo capacitado y coordinado. <b>Mejor comunicación representa una colaboración más ordenada.</b> Conforme las empresas aumentan sus dimensiones, el manejo eficiente de la comunicación puede convertirse en una preocupación.</p>
+			<p>Por esto existe <b>SharePoint, la respuesta de Microsoft al desafío de la comunicación y conectividad de la fuerza laboral en entornos corporativos</b>: una red segura para la colaboración gracias al manejo eficiente de la información. En SharePonit es posible acceder e interactuar con la información disponible en tiempo real, sean fuentes de datos estructuradas o no; asimismo, es posible dar acceso a terceros para facilitar su comunicación con nuestro equipo. Usted puede acceder a su comunidad y sus contenidos en SharePoint a través de sus dispositivos portátiles como teléfonos inteligentes o tabletas.</p>
+			<p>Ya que SharePoint está listo para funcionar con el resto de productos y servicios de Microsoft, garantiza el perfecto funcionamiento e interacción de los formatos sin importar el dispositivo, lo cual <b>permite flexibilizar las políticas de uso de hardware así como ahorrar en la actualización, compra e implementación de infraestructura tecnológica.</b></p>
+			<p>Estos son algunos de los beneficios que SharePoint le ofrece a su empresa. <b>Vivimos y trabajamos en una era en la que la comunicación es vital</b> —la información alimenta a los negocios—, en la cual debemos hacer uso de todos los recursos a nuestro alcance para traer beneficios a nuestra organización al mismo tiempo que garantizamos protección para todo el entorno.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#Sharepoint</guid>
+	</item>
+	
+	<item>
+		<title>Windows 8 en cualquier PC</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#Windows8enCualquierPC</link>
+		<description><![CDATA[
+			<h2>Movilidad que de verdad ayuda</h2>
+			<p>Desde hace algunos años muchas empresas han adoptado una práctica que busca reducir el costo de infraestructura en hardware, la política de BYOD (Bring Your Own Device, o Trae Tu Propio Dispositivo) ha sido aceptada con resultados mixtos. <b>En algunos casos han surgido problemas de compatibilidad con la infraestructura de la empresa</b>, en otros, algunos dispositivos no están pensados para operar en ambientes donde la seguridad de la información es un estándar. <b>Una mala selección de dispositivos que acceden a redes de trabajo podría tener consecuencias incalculables</b> en términos de imagen y relación con socios comerciales y clientes.</p>
+			<p><b>Una forma para obtener el mayor beneficio de este tipo de prácticas es adoptar sistemas operativos que permitan usar herramientas estandarizadas</b>, que al mismo tiempo garanticen la seguridad de la información. Gracias a Windows To Go el área de TI puede proporcionar una unidad USB de arranque con la cual <b>los usuarios pueden iniciar Windows 8 desde cualquier PC</b> (capaz de ejecutar Windows 8). De esta forma, los usuarios tienen sus aplicaciones, datos y entorno de oficina personalizado de la misma manera que en la PC de su trabajo. <b>Windows To Go transforma cualquier PC en una oficina.</b> Incluso si su USB es utilizada en cualquier otro lugar, el cifrado de BitLocker mantendrá los datos seguros.</p>
+			<p><b>Las soluciones que Windows 8 ofrece permiten trabajar prácticamente en cualquier lugar.</b> Mientras los usuarios pueden llevar a cabo sus labores en dispositivos de su entera confianza, las empresas están tranquilas sobre las herramientas que se emplean, ya que son las mismas de su organización. Estamos en el amanecer de nuevas formas de trabajo y colaboración dentro (y fuera) de una oficina.</p>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#Windows8enCualquierPC</guid>
+	</item>
+	
+	<item>
+		<title>Casos de éxito Instituto Politécnico Nacional (IPN)</title>
+		<link>http://www.tesseractspace.com/prototipos/productividadrenovada/#CasosDeExito-IPN</link>
+		<description>
+		<![CDATA[
+		<h3>Antecedentes</h3>
+		<ul>
+			<li>Durante 2012 cumplió 75 años al servicio de la educación media, superior e investigación en México.</li>
+			<li>Cuenta con más de 162,000 estudiantes en modo escolarizado en diversos programas académicos de niveles medio-superior, superior y posgrado.</li>
+			<li>Su cuerpo estudiantil es muy diverso, en su distribución geográfica y habilidades; la planta de TI que los provee de servicios es igualmente amplia.</li>
+		</ul>
+		<h3>Retos</h3>
+		<ul>
+			<li>Desarrollar programas de educación online para estudiantes y profesores. Para el área de TI, proveer a la institución de herramientas que faciliten la interacción a distancia entre estudiantes y educadores. Familiarizar a los estudiantes con las herramientas que usarán en su vida profesional.</li>
+		</ul>
+		<h3>Resultados</h3>
+		<ul>
+			<li>Se consiguió que estas soluciones Microsoft se utilizaran en 15 unidades del IPN en beneficio de todos los alumnos.</li>
+			<li>Las áreas de TI han aumentado su eficiencia y productividad ya que estos productos y servicios son más accesibles y fáciles de usar.</li>
+			<li>Cada vez más unidades del Instituto Politécnico Nacional se encuentran probando el nuevo Office 2013.</li>
+		</ul>
+		]]></description>
+		<guid>http://www.tesseractspace.com/prototipos/productividadrenovada/#CasosDeExito-IPN</guid>
+	</item>
+
+	</channel>
+</rss>

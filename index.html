@@ -1,0 +1,376 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+	<!-- Site metadata -->
+	<title>Productividad Renovada #1 - Microsoft México</title>	
+	<meta name="author" content="Tesseract Space">
+	<meta name="owner" content="Microsoft México">
+	<meta name="copyright" content="2012© Microsoft Corp.">
+	<meta name="description" content="Productividad Renovada es una publicación digital que de forma ágil presenta los productos y servicios que Microsoft pone a disposición de cualquier empresa que desea alcanzar su potencial a través de las nuevas tecnologías.">
+	<meta name="keywords" content="Microsoft, Windows 8, productividad, soluciones, enterprise, PyMEs, software, nube, SharePoint, Office, Office 365, Windows To Go, Azure, Windows Defender, BitLocker, Yammer, accesibilidad, seguridad, flexibilidad, colaboración, interoperabilidad, familiaridad, protección, proteccion, garantía, garantia, servicio, privacidad, tecnologia, tecnología, movilidad, consumerización, consumerizacion, usuario empresarial, corporativo, licencias">
+
+	<!-- Favicon -->
+	<link type="image/x-icon" rel="shortcut icon" href="images/icons/favicon.ico">
+	<link type="image/jpeg" rel="shortcut icon" href="images/icons/favicon.jpg">
+	
+	<!-- iOS screen icons and webapp capabilities-->
+	<link rel="apple-touch-icon" href="images/icons/icon_PR_72px.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/icons/icon_PR_72px.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/icons/icon_PR_114px.png">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+	<!-- Avoid scaling in mobile devices -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<!-- For IE compatibility -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<!-- IE pinned website -->
+	<meta name="application-name" content="Productividad Renovada">
+	<meta name="msapplication-tooltip" content="Productividad Renovada #1">
+	<meta name="msapplication-starturl" content="http://www.tesseractspace.com/prototipos/productividadrenovada/">
+	<meta name="msapplication-window" content="width=1040;height=764">
+	<meta name="msapplication-navbutton-color" content="#808184">
+	
+	<!-- IE jumplist -->
+	<script type="text/javascript" src="scripts/ieJumplist.js"></script>
+	<meta name="msapplication-task" content="name=Contacto; action-uri=http://www.tesseractspace.com/prototipos/productividadrenovada/#portada; icon-uri=http://www.tesseractspace.com/prototipos/productividadrenovada/images/icons/contacto.ico">
+	 
+    <!-- Style sheets-->
+	<link href="styles/main.css" rel="stylesheet" type="text/css">
+	<link href="styles/pages.css" rel="stylesheet" type="text/css">
+	<link href="styles/popup.css" rel="stylesheet" type="text/css">
+
+	<!-- Pagination -->
+	<script type="text/javascript" src="scripts/sliderbox.js"></script>
+	<script type="text/javascript" src="scripts/urlShortcuts.js"></script>
+	
+	<!-- Popup -->
+	<script type="text/javascript" src="scripts/showpopup.js"></script>
+	
+	<!-- Change theme -->
+	<script type="text/javascript" src="scripts/changeTheme.js"></script>
+	
+	<!-- Analytics -->
+	<script type="text/javascript" src="scripts/gAnalytics.js"></script>
+</head>
+
+<body onload="setup();">
+	<div id="container">
+		<div class="ToolMenu">
+			<a href="#portada" class="option1" onclick="moveInnerBox(1);"><img src="images/header/PR-logo.png" alt="Productividad Renovada"></a>
+			<ul class="menuBOX">
+				<li><a href="#EnBuenasManos" class="option2" onclick="moveInnerBox(5);">En buenas manos</a></li>
+				<li><a href="#Organicemonos" class="option3" onclick="moveInnerBox(8);">Organicémonos</a></li>
+				<li><a href="#VentanaAbierta" class="option4" onclick="moveInnerBox(13);">Ventana abierta</a></li>
+				<li><a href="#SinMuros" class="option5" onclick="moveInnerBox(15);">Sin muros</a></li>
+				<li><a href="#aCienciaCierta" class="option6" onclick="moveInnerBox(20);">A ciencia cierta</a></li>
+				<li><a href="#Mosaico" class="option7" onclick="moveInnerBox(24);">Mosaico</a></li>
+				<li><a href="rss.xml" id="rssfeed"><img src="images/header/RSS-feed-tile.png" alt="Feed de RSS" title="Feed de RSS"></a></li>
+				<!-- li><a class="popupButton" onclick="showpopup('show');">popup</a></li -->
+			</ul>
+		</div>
+					
+		<!--Contenido del sitio -->
+		<div class="seccionPanel">
+		
+			<!-- Fecha izquierda -->
+			<div id="arrowleft"><a onclick="previousPage();"></a></div>
+			
+			<!-- Fecha derecha-->
+			<div id="arrowright"><a onclick="nextPage();"></a></div>
+			
+			<div class="changeSeccion">
+				<div id="innerBox">
+					<div class="page" id="maincover">
+						<a id="coverImage" href="#Windows8Enterprise" onclick="moveInnerBox(3);">
+							<img src="images/content/portada.jpg" alt="Productividad Renovada #1">
+						</a>
+						<div id="coverTiles">
+							<a class="coverLongTile" id="tileCoverArticle" href="#Windows8Enterprise" onclick="moveInnerBox(3);">
+								<h2 class="coverTileTitle">Windows 8 Enterprise</h2>
+								<p class="coverTileText">Nuevas características para mejorar la productividad de su empresa</p>
+							</a>
+							<a class="coverTile" id="tileOrganicemonos" href="#QueEsOffice365" onclick="moveInnerBox(9);">
+								<p class="coverTileText">¿Qué es Office 365?</p>
+							</a>
+							<a class="coverTile" id="tileEnBuenasManos" href="#WindowsSystemCenter" onclick="moveInnerBox(7);">
+								<p class="coverTileText">Windows System Center</p>
+							</a>
+							<a class="coverTile" id="tileSinMuros" href="#AplicacionesEnNube" onclick="moveInnerBox(18);">
+								<p class="coverTileText">Aplicaciones en la Nube</p>
+							</a>
+							<a class="coverLongTile">
+								<img src="images/content/tiles/indice_tileWE.jpg" alt="People Ready">
+							</a>
+							<a class="coverTile" id="tileVentanaAbierta" href="#Eficiencia" onclick="moveInnerBox(14);">
+								<p class="coverTileText">Eficiencia al cuadrado</p>
+							</a>
+							<a class="coverLongTile" id="tileACienciaCierta" href="#DescubraLaWeb" onclick="moveInnerBox(23);">
+								<h2 class="coverTileTitle">Descubra la web</h2>
+								<p class="coverTileText">con Internet Explorer 10</p>
+							</a>
+							<a class="coverTile" id="tileACienciaCierta" href="#evolucionDeOffice" onclick="moveInnerBox(21);">
+								<p class="coverTileText">La evolución de Office</p>
+							</a>
+							<a class="coverLongTile" id="tileEnBuenasManos" href="#OficinaMovil" onclick="moveInnerBox(6);">
+								<h2 class="coverTileTitle">Oficina móvil o fija</h2>
+								<p class="coverTileText">Seguridad en todo lugar</p>
+							</a>
+							<a class="coverTile" id="tileMosaico" href="#Sharepoint" onclick="moveInnerBox(25);">
+								<p class="coverTileText">Sharepoint, donde converge la empresa</p>
+							</a>
+							<a class="coverTile" id="tileOrganicemonos" href="#Yammer" onclick="moveInnerBox(11);">
+								<p class="coverTileText">Yammer</p>
+							</a>
+							<a class="coverTile" id="tileMosaico" href="#Windows8enCualquierPC" onclick="moveInnerBox(26);">
+								<p class="coverTileText">¿Windows 8 en cualquier PC? Es posible</p>
+							</a>
+							<a class="coverTile" id="tilePresentation" href="#presentacion" onclick="moveInnerBox(2);">
+								<p class="coverTileText">Evolución, una forma de vivir</p>
+							</a>
+							<a class="coverLongTile" id="tileSinMuros" href="#Window8EnMovimiento" onclick="moveInnerBox(16);">
+								<h2 class="coverTileTitle">Windows 8</h2>
+								<p class="coverTileText">en movimiento</p>
+							</a>
+							<a class="coverTile" id="tileCasoDeExito"href="#CasosDeExito-IPN" onclick="moveInnerBox(28);">
+								<p class="coverTileText">IPN<br>Casos de éxito</p>
+							</a>
+						</div>
+					</div>
+					<div class="page-4c" id="page2">
+						<img src="images/content/articles/presentacion.jpg" class="textpageHead" alt="Evolución, una forma de vivir">
+						<h1 class="presentacionText">Evolución, una forma de vivir</h1>
+						<p class="noIndent">Este es el primer ejemplar de <em>Productividad Renovada</em>, una publicación que presentará información útil y siempre actualizada sobre las diversas soluciones que Microsoft ofrece al segmento empresarial. Nuestra intención es acercar a los usuarios hacia recursos tecnológicos que quizá no conocen y podrían hacer una diferencia positiva en su entorno. Esta información está distribuida de acuerdo a los valores preponderantes de los productos, así podrá identificar el tipo de necesidad que esta tecnología resuelve, de esta forma hablaremos de <b>accesibilidad</b>, <b>seguridad</b>, <b>flexibilidad</b>, <b>colaboración</b>, <b>interoperabilidad</b> y <b>familiaridad.</b></p>
+
+						<p>El debut de un nuevo sistema operativo es excusa suficiente como para destinarle amplio espacio en <em>Productividad Renovada</em>. Windows 8 no solo representa una innovadora forma de interactuar con una computadora (sin importar la forma que esta tenga) ya que el sistema operativo simplifica las labores tanto con dispositivos que utilizan interfaces tipo touch como tradicionales. Windows 8 trae consigo nuevas formas de colaboración, que facilitan el trabajo a distacia o en movimiento y consideran el uso de dispositivos más portátiles, que además tiene a la seguridad de su información como característica más importante.</p>
+
+						<p>Finalmente, alrededor de todos estos temas se encuentra un actor que lentamente está cobrando más importancia en el mundo empresarial: la Nube. Gracias a las posibilidades que esra herramienta nos ofrece, los costos de algunos procesos e infraestructura que considerabamos</p>
+						
+						<blockquote class="presentacionText">Acercar a los usuarios hacia recursos tecnológicos que quizá no conocen y podrían hacer una diferencia positiva en su entorno.</blockquote>
+						
+						<p class="noIndent">fijos, se han vuelto más flexibles. Con el paso del tiempo la Nube se convertirá en una necesidad más que una novedad.</p>
+
+						<p>Le invitamos a que descubra algunas de las formas en las cuales Windows 8 y toda la gama de productos Microsoft pueden ayudarle a alcanzar todo el potencial de su fuerza de trabajo para cumplir los objetivos de su empresa. Bienvenido a <em>Productividad Renovada</em>.</p>
+					</div>
+					<div class="page" id="page3">
+						<img src="images/pages/productividadrenovada_beta03.jpg" alt="page 3">
+					</div>
+					<div class="page" id="page4">
+						<img src="images/pages/productividadrenovada_beta04.jpg" alt="page 4">
+					</div>
+					<div class="page" id="cover-1">
+						<h1 class="sectionTitle" id="titleBuenasManos">En buenas manos</h1>
+						<div class="sectionTile" id="idBuenasManos">
+							<img src="images/content/markers/marker-01.jpg" alt="En buenas manos">
+						</div>
+						<p class="sectionIntro" id="introBuenasManos">
+							Le ofrecemos soluciones para garantizar la <b>Seguridad</b> de su infraestructura tecnlógica, descubra cómo dar respuesta a sus problemas.
+						</p>
+						<br>
+						<div class="tileColection">
+							<a class="longTile" id="longTileBuenasManos" href="#OficinaMovil" onclick="moveInnerBox(6);">
+								<h1 class="tileTitle">Oficina móvil o fija</h1>
+								<p class="tileText">Seguridad en todo lugar</p>
+							</a>
+							<a class="tile" id="idBuenasManos" href="#WindowsSystemCenter" onclick="moveInnerBox(7);">
+								<p class="tileText">Windows System Center</p>
+							</a>
+							<br>
+							<a class="tile" id="tile2BuenasManos" href="#">
+								<p class="tileText">Haga clic en el mosaico para obtener más información sobre los productos Microsoft que se presentan aquí.</p>
+							</a>
+						</div>
+					</div>
+					<div class="page" id="page6">
+						<img src="images/pages/productividadrenovada_beta06.jpg" alt="page 6">
+					</div>
+					<div class="page" id="page7">
+						<img src="images/pages/productividadrenovada_beta07.jpg" alt="page 7">
+					</div>
+					<div class="page" id="cover-2">
+						<h1 class="sectionTitle" id="titleOrganicemonos">Organicémonos</h1>
+						<div class="sectionTile" id="idOrganicemonos">
+							<img src="images/content/markers/marker-02.jpg" alt="Organicémonos">
+						</div>
+						<p class="sectionIntro" id="introOrganicemonos">
+							La tecnología ha transformado la <b>Colaboración</b> dentro de los ambientes laborales, aquí conocerá las nuevas posibilidades a su alcance.
+						</p>
+						<br>
+						<div class="tileColection">
+							<a class="tile" id="organicemonos1" href="#QueEsOffice365" onclick="moveInnerBox(9);">
+								<p class="tileText">¿Qué es Office 365?</p>
+							</a>
+							<a class="tile" id="organicemonos2" href="#Yammer" onclick="moveInnerBox(11);">
+								<p class="tileText">Yammer</p>
+							</a>
+							<br>
+							<a class="tile" id="organicemonos3" href="#">
+								<p class="tileText">Haga clic en el mosaico para obtener más información sobre los productos Microsoft que se presentan aquí.</p>
+							</a>
+						</div>
+					</div>
+					<div class="page" id="page9">
+						<img src="images/pages/productividadrenovada_beta09.jpg" alt="page 9">
+					</div>
+					<div class="page" id="page10">
+						<img src="images/pages/productividadrenovada_beta10.jpg" alt="page 10">
+					</div>
+					<div class="page" id="page11">
+						<img src="images/pages/productividadrenovada_beta11.jpg" alt="page 11">
+					</div>
+					<div class="page" id="page12">
+						<img src="images/pages/productividadrenovada_beta12.jpg" alt="page 12">
+					</div>
+					<div class="page" id="cover-3">
+						<h1 class="sectionTitle" id="titleVentanaAbierta">Ventana Abierta</h1>
+						<div class="sectionTile" id="idOrganicemonos">
+							<img src="images/content/markers/marker-03.jpg" alt="Organicémonos">
+						</div>
+						<p class="sectionIntro" id="introVentanaAbierta">
+							En esta sección podrá enterarse cómo y por qué facilitar el uso de tecnología y mejorar su <b>Accesibilidad</b> para los usuarios beneficia a la empresa.
+						</p>
+						<br>
+						<div class="tileColection">
+							<a class="longTile" id="VentanaAbierta1" href="#Eficiencia" onclick="moveInnerBox(14);">
+								<h1 class="tileTitle">Eficiencia al cuadrado</h1>
+							</a>
+							<br>
+							<a class="tile" id="VentanaAbierta2" href="#">
+								<p class="tileText">Haga clic en el mosaico para obtener más información sobre los productos Microsoft que se presentan aquí.</p>
+							</a>
+						</div>
+					</div>
+					<div class="page" id="page14">
+						<img src="images/pages/productividadrenovada_beta14.jpg" alt="page 14">
+					</div>
+					<div class="page" id="cover-4">
+						<h1 class="sectionTitle" id="titleSinMuros">Sin muros</h1>
+						<div class="sectionTile" id="idSinMuros">
+							<img src="images/content/markers/marker-04.jpg" alt="Sin Muros">
+						</div>
+						<p class="sectionIntro" id="introSinMuros">
+							En esta sección podrá enterarse cómo y por qué facilitar el uso de tecnología y mejorar su <b>Accesibilidad</b> para los usuarios beneficia a la empresa.
+						</p>
+						<br>
+						<div class="tileColection">
+							<a class="longTile" id="SinMuros1" href="#Window8EnMovimiento" onclick="moveInnerBox(16);">
+								<h1 class="tileTitle">Windows 8</h1>
+								<p class="tileText">en movimiento</p>
+							</a>
+							<a class="tile" id="SinMuros2" href="#AplicacionesEnNube" onclick="moveInnerBox(18);">
+								<p class="tileText">Aplicaciones en la Nube</p>
+							</a>
+							<br>
+							<a class="longTile" id="SinMuros3" onclick="showpopup('show');" style="cursor:pointer">
+								<img src="images/content/tiles/sinMuros_tileVideo.jpg" alt="Video: Windows 8">
+							</a>
+						</div>
+					</div>
+					<div class="page" id="page16">
+						<img src="images/pages/productividadrenovada_beta16.jpg" alt="page 16">
+					</div>
+					<div class="page" id="page17">
+						<img src="images/pages/productividadrenovada_beta17.jpg" alt="page 17">
+					</div>
+					<div class="page" id="page18">
+						<img src="images/pages/productividadrenovada_beta18.jpg" alt="page 18">
+					</div>
+					<div class="page" id="page19">
+						<img src="images/pages/productividadrenovada_beta19.jpg" alt="page 19">
+					</div>
+					<div class="page" id="cover-5">
+						<h1 class="sectionTitle" id="titleACienciaCierta">A ciencia cierta</h1>
+						<div class="sectionTile" id="idACienciaCierta">
+							<img src="images/content/markers/marker-05.jpg" alt="Sin Muros">
+						</div>
+						<p class="sectionIntro" id="introACienciaCierta">
+							Aquí conocerá como la <b>Familiaridad</b> que despierta un producto tecnológico lo puede ayudar a mejorar operaciones clave de su negocio.
+						</p>
+						<br>
+						<div class="tileColection">
+							<a class="tile" id="ACienciaCierta1" href="#evolucionDeOffice" onclick="moveInnerBox(21);">
+								<p class="tileText">La evolución de Office</p>
+							</a>
+							<a class="longTile" id="ACienciaCierta2" href="#DescubraLaWeb" onclick="moveInnerBox(23);">
+								<h1 class="tileTitle">Descubra la web</h1>
+								<p class="tileText">con Internet Explorer 10</p>
+							</a>
+							<br>
+							<a class="tile" id="ACienciaCierta3" href="#">
+								<p class="tileText">Haga clic en el mosaico para obtener más información sobre los productos Microsoft que se presentan aquí.</p>
+							</a>
+						</div>
+					</div>
+					<div class="page" id="page21">
+						<img src="images/pages/productividadrenovada_beta21.jpg" alt="page 21">
+					</div>
+					<div class="page" id="page22">
+						<img src="images/pages/productividadrenovada_beta22.jpg" alt="page 22">
+					</div>
+					<div class="page" id="page23">
+						<img src="images/pages/productividadrenovada_beta23.jpg" alt="page 23">
+					</div>
+					<div class="page" id="cover-6">
+						<h1 class="sectionTitle" id="titleMosaico">Mosaico</h1>
+						<div class="sectionTile" id="idMosaico">
+							<img src="images/content/markers/marker-06.jpg" alt="Mosaico">
+						</div>
+						<p class="sectionIntro" id="introMosaico">
+							Hoy nuestra información nos sigue a cualquier lugar, descubra cómo la tecnología lo apoya para garantizar la <b>Interoperabilidad</b> de sus recursos.</p>
+						<br>
+						<div class="tileColection">
+							<a class="tile" id="Mosaico1" href="#Sharepoint" onclick="moveInnerBox(25);">
+								<p class="tileText">Sharepoint, donde converge la empresa</p>
+							</a>
+							<a class="tile" id="Mosaico2" href="#Windows8enCualquierPC" onclick="moveInnerBox(26);">
+								<p class="tileText">¿Windows 8 en cualquier PC? Es posible</p>
+							</a>
+							<br>
+							<a class="longTile" id="Mosaico3" href="#">
+								<p class="tileText">Haga clic en el mosaico para obtener más información sobre los productos Microsoft que se presentan aquí.</p>
+							</a>
+						</div>
+					</div>
+					<div class="page" id="page25">
+						<img src="images/pages/productividadrenovada_beta25.jpg" alt="page 25">
+					</div>
+					<div class="page" id="page26">
+						<img src="images/pages/productividadrenovada_beta26.jpg" alt="page 26">
+					</div>
+					<div class="page" id="page27">
+						<img src="images/pages/productividadrenovada_beta27.jpg" alt="page 26">
+					</div>
+					<div class="page" id="page28">
+						<img src="images/pages/productividadrenovada_beta28.jpg" alt="page 26">
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		
+		<!-- Inline popup -->
+		<div id="pagecover" style="visibility:hidden">
+			<div id="popup">
+				<p class="textButtonContainer"><a class="textButton" onclick="showpopup('hide');">cerrar</a></p>
+					<div id="popupContent">
+						<video id="prvideo" width="512" height="288" controls>
+						  <source src="media/meetWindows8.ogv" type="video/ogg">
+						  <source src="media/meetWindows8.mp4" type="video/mp4">
+						  	¡Tu navegador web no soporta la reproducción de video!
+						</video>
+					</div>
+			</div>
+		</div>
+		
+		<div id="footerPanel">
+			<div class="note"><a href="#">Contacto</a></div>
+			<div id="themeChooser"><div class="colorChoser" id="light" onclick="changeTheme('light');"></div> <div class="colorChoser" id="dark" onclick="changeTheme('dark');"></div> Para una mejor lectura, elige el tema de tu preferencia</div>
+			<div id="copyright"><a href="http://www.microsoft.com.mx"><img src="images/footer/microsoft-logo.png" alt="Microsoft"><span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&copy; 2013 Microsoft</span></a></div>
+		</div>
+	</div>
+</body>
+</html>

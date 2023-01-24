@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+#footerPanel {
+	height: 73px;
+	width: 100%;
+	background-color: #F6F6F6;
+	text-decoration: none;
+	clear:both;
+}
+
+.note {
+	margin-top: 1.4em;
+	margin-left: 3.7em;
+	float: left;
+}
+.note a {
+	font-size: 1.5em;
+	text-transform:uppercase;
+	font-weight:bold;
+	text-decoration: none;
+	color:#9C9EA1;
+}
+
+#themeChooser{
+	font-size: 0.7em;
+	font-weight: normal;
+	float: left;
+	margin-left:15%;
+	margin-top:2.8em;
+}
+.colorChoser {
+	width:26px;
+	height:26px;
+	border:thin black solid;
+	float:left;
+	margin-right:6px;
+	margin-top:-0.7em;
+	cursor:pointer;
+}
+#light{
+	background-color: #F6F6F6;
+	
+}
+#dark{
+	background-color: #898B8D;
+}
+#copyright {
+	font-size: 0.8em;
+	font-weight: normal;
+	float: right;
+	margin-top: 2em;
+	margin-right: 2em;
+}
+#copyright a{
+	text-decoration: none;
+	color:black;
+}
+#copyright img{
+	vertical-align:middle;
+}

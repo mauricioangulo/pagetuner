@@ -1,0 +1,37 @@
+﻿#pagecover{
+	z-index:1000;
+	position: fixed;
+	top:0px;
+	right:0px;
+	width: 100%;
+	height: 100%;
+	background-image: url('../images/background-back49p.png');
+}
+#popup{
+	position:relative;
+	top:50%;
+	margin-top:-144px;
+	margin-left:auto;
+	margin-right:auto;
+	width:525px;
+	height:288px;
+}
+.textButtonContainer {
+	text-align:right;
+	margin:10px;
+}
+.textButton {
+	font-size:small;
+	color:#fff;
+	text-align:right;
+	margin-right:-12px;
+	padding:12px;
+	text-decoration:none;
+	cursor: pointer;
+}
+#popupContent{
+	background-color:#58595B;
+	border:2px #F6F6F6 solid;
+	width:512px;
+	height:288px;
+}

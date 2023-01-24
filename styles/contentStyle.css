@@ -1,0 +1,123 @@
+﻿/* CSS Document */
+@font-face {
+	font-family: Segoe;
+	src: url('fonts/segoeui.ttf');
+
+	font-family: SegoeBold;
+	src: url('fonts/segoeuib.ttf');
+
+	font-family: SegoeItalic;
+	src: url('fonts/segoeuii.ttf');
+
+	font-family: SegoeItalicLight;
+	src: url('fonts/segoeuiil.ttf');
+
+	font-family: SegoeSemibold;
+	src: url('fonts/segoeuisb.ttf');
+	
+	font-family: 'SegoeLight';
+	src: url('fonts/segoeuil.eot') format('embedded-opentype'),
+		 url('fonts/segoeuil.ttf') format('truetype');
+}
+
+body{
+	font-family:"Segoe", Tahoma, Geneva, Verdana, sans-serif;
+}
+b, strong{
+	font-family:"SegoeBold", Tahoma, Geneva, Verdana, sans-serif;
+}
+i, em{
+	font-family:"SegoeItalic", Tahoma, Geneva, Verdana, sans-serif;
+}
+#container {
+	/*width:1024px;
+	height:768px;*/
+	background-color:#F6F6F6;
+	margin:0px;
+	padding:0px;
+}
+
+/* Barra de herramientas */
+
+.ToolMenu {
+	width: 100%;
+	width: expression(document.body.clientWidth);
+	padding-top: 5px;
+	background-color: #58595B;
+	overflow:auto;
+}
+
+.ToolContent #T_right {
+	float: right;
+}
+
+.CentralPanel {
+	height: auto;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+/* ----- Menu Principal ------ */
+
+.menuBOX {
+	margin: 0px 0px;
+	padding:0px;
+	list-style: none;
+	float:right;
+	}
+.menuBOX li {
+	display: block;
+	float: left;
+}
+.menuBOX li a {
+	display: block;
+	text-indent: 0px;
+	text-decoration:none;
+	margin-top: 0px;
+	padding: 11px 14px;
+	}
+#rssfeed{
+	padding: 3px;
+	padding-right: 10px;
+}
+
+/* Estado pasivo */
+
+.menuBOX li a.option1 {
+	width: 280px;
+	margin-top: 0px;
+	}
+	
+/* Estado Activo */
+
+.menuBOX li a.option2:hover {
+	color:#9867BF;
+	}
+.menuBOX li a.option3:hover {
+	color:#F48136;
+	}
+.menuBOX li a.option4:hover {
+	color:#238BF2;
+	}
+.menuBOX li a.option5:hover {
+	color:#F89F1B;
+	}	
+.menuBOX li a.option6:hover {
+	color:#00AAC4;
+	}
+.menuBOX li a.option7:hover {
+	color:#E00040;
+	}
+	
+/* Paginas */
+#innerBox {
+	width: 28672px;
+/*	height: 667px;*/
+}
+.page {
+	width: 1024px;
+	height: 575px;
+	display:block;
+	float:left;
+}
